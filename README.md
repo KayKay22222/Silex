@@ -6,3 +6,9 @@ Download Silex
 Extract The Folder 
 Open The Folder
 Open How To Setup (required).txt Continue From There :)
+
+# How To Use 
+Coming Soon..
+
+# Socials
+Coming Soon..
